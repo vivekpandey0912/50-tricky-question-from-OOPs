@@ -1,5 +1,4 @@
 
-
 1. **Question:** Can a subclass access private members of its superclass?
    **Answer:** No, a subclass cannot directly access private members of its superclass.
 
